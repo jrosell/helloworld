@@ -5,6 +5,7 @@
 #' @examples
 #' library(helloworld)
 #' helloworld()
+#' # Hello world
 #' @export
 helloworld <- function(){
   cat("Hello world", '\n')

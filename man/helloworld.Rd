@@ -15,4 +15,5 @@ It prints Hello world and return it invisibly.
 \examples{
 library(helloworld)
 helloworld()
+# Hello world
 }
