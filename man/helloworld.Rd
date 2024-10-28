@@ -6,6 +6,13 @@
 \usage{
 helloworld()
 }
+\value{
+invisibily return "Hello world".
+}
 \description{
-It says Hello world to you.
+It prints Hello world and return it invisibly.
+}
+\examples{
+library(helloworld)
+helloworld()
 }
